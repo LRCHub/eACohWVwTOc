@@ -1,0 +1,77 @@
+# The Chainsmokers – Sick Boy
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.03] I'm from the East side of America
+[00:03.10] Where we choose pride over character
+[00:05.86] And we can pick sides, but this is us
+[00:08.79] This is us, this is
+[00:18.29] 
+[00:11.07] I live on the West side of America
+[00:13.89] Where they spin lies into fairy dust
+[00:16.64] And we can pick sides, but this is us
+[00:19.10] This is us, this is
+[00:28.60] 
+[00:21.31] And don't believe the narcissism
+[00:23.49] When everyone projects
+[00:25.01] And expects you to listen to 'em
+[00:26.72] Make no mistake, I live in a prison
+[00:28.90] That I built myself, it is my religion
+[00:47.90] 
+[00:31.53] And they say that I am the sick boy
+[00:34.75] Easy to say, when you don't take the risk, boy
+[00:37.50] Welcome to the narcissism
+[00:39.82] Yeah, we're united under our indifference
+[01:00.32] 
+[00:42.82] And I'm from the East side of America
+[00:45.25] Where we desensitize by hysteria
+[00:48.12] And we can pick sides, but this is us
+[00:51.06] This is us, this is
+[01:00.56] 
+[00:53.50] I live on the West side of America
+[00:56.09] Where they spin lies into fairy dust
+[00:58.95] And we can pick sides, but this is us
+[01:01.48] This is us, this is
+[01:10.98] 
+[01:06.29] I am the, I am the, I am the sick boy
+[01:11.65] I am the, I am the, I am the sick boy
+[01:14.75] (I'm from the East side of America)
+[01:17.55] They say that I am the sick boy
+[01:20.05] (I live on the West side of America)
+[01:22.74] And they call me the sick boy
+[01:37.24] 
+[01:25.78] Don't believe the narcissism
+[01:27.34] When everyone projects
+[01:28.91] And expects you to listen to 'em
+[01:30.57] Make no mistake, I live in a prison
+[01:32.92] That I built myself, it is my religion
+[01:51.92] 
+[01:36.02] And they say that I am the sick boy
+[01:38.74] Easy to say, when you don't take the risk, boy
+[01:41.76] Welcome to the narcissism
+[01:43.97] Where we're united under our indifference
+[02:04.47] 
+[01:46.79] Feed yourself with my life's work
+[01:49.18] How many likes is my life worth?
+[01:52.02] Feed yourself with my life's work
+[01:54.72] How many likes is my life worth?
+[01:57.18] Feed yourself with my life's work
+[02:00.08] How many likes is my life worth?
+[02:02.70] Feed yourself on my life's work
+[02:05.10] How many likes is my life worth?
+[02:21.10] 
+[02:08.16] I'm from the East side of America
+[02:10.53] I am the, I am the, I am the sick boy
+[02:13.76] I live on the West side of America
+[02:15.92] I am the, I am the, I am the sick boy
+[02:18.95] I'm from the East side of America
+[02:21.15] They say that I am a sick boy
+[02:35.65] 
+[02:24.18] I live on the West side of America
+[02:26.87] Yeah, they call me the sick boy
+[02:31.76] I am the, I am the, I am the sick boy
+[02:36.87] I am the, I am the, I am the sick boy
+[02:42.46] They say that I am the sick boy
+[02:47.92] Yeah, they call me the sick boy
+```

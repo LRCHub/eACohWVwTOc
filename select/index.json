@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Sick Boy",
+  "base_artist": "The Chainsmokers",
+  "createdAt": "2026-02-21T15:48:08.806933Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sick Boy",
+      "artist": "The Chainsmokers",
+      "has_synced": true,
+      "path": "select/01_Sick_Boy_The_Chainsmokers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Helpline Operator - Sick Boy Mix",
+      "artist": "THE THE",
+      "has_synced": true,
+      "path": "select/02_Helpline_Operator_-_Sick_Boy_Mix_THE_THE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Helpline Operator (Sick Boy mix)",
+      "artist": "The The",
+      "has_synced": true,
+      "path": "select/03_Helpline_Operator_(Sick_Boy_mix)_The_The.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Kids Will Have Their Say (Feat. Sick Boy with former members of The Exploited and Die Kreuzen)",
+      "artist": "Steve Aoki",
+      "has_synced": false,
+      "path": "select/04_The_Kids_Will_Have_Their_Say_(Feat._Sick_Boy_with_former_members_of_The_Exploite_Steve_Aoki.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sick Boy",
+      "artist": "The Chainsmokers",
+      "has_synced": true,
+      "path": "select/05_Sick_Boy_The_Chainsmokers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sick Boy (Kuur Remix)",
+      "artist": "The Chainsmokers",
+      "has_synced": true,
+      "path": "select/06_Sick_Boy_(Kuur_Remix)_The_Chainsmokers.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sick Boy (Prismo Remix)",
+      "artist": "The Chainsmokers",
+      "has_synced": true,
+      "path": "select/07_Sick_Boy_(Prismo_Remix)_The_Chainsmokers.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sick Boy (Trobi Remix)",
+      "artist": "The Chainsmokers",
+      "has_synced": true,
+      "path": "select/08_Sick_Boy_(Trobi_Remix)_The_Chainsmokers.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sick Boy (neutral. Remix)",
+      "artist": "The Chainsmokers",
+      "has_synced": false,
+      "path": "select/09_Sick_Boy_(neutral._Remix)_The_Chainsmokers.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sick Boy (neutral. Remix)",
+      "artist": "The Chainsmokers",
+      "has_synced": false,
+      "path": "select/10_Sick_Boy_(neutral._Remix)_The_Chainsmokers.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sick Boy",
+      "artist": "The Chainsmokers",
+      "has_synced": true,
+      "path": "select/11_Sick_Boy_The_Chainsmokers.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sick Boy",
+      "artist": "ザ・チェインスモーカーズ",
+      "has_synced": true,
+      "path": "select/12_Sick_Boy_ザ・チェインスモーカーズ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sick Boy",
+      "artist": "The Chainsmokers",
+      "has_synced": true,
+      "path": "select/13_Sick_Boy_The_Chainsmokers.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Call Me Sick Boy",
+      "artist": "Hopes Die Last",
+      "has_synced": true,
+      "path": "select/14_Call_Me_Sick_Boy_Hopes_Die_Last.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sick Boy",
+      "artist": "The Chainsmokers",
+      "has_synced": false,
+      "path": "select/pl_01_Sick_Boy_The_Chainsmokers.txt"
+    }
+  ]
+}
